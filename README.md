@@ -1,3 +1,3 @@
 # Codeacademy
 
-Some description.
+Some description!
